@@ -78,6 +78,7 @@ int getLongestArray(int[] arr)
 /*---------------------------------------------------------------*/
 
 //====================== Kiểm thử=================================
+Console.WriteLine("Bài 1:");
 int[] arr = { 1, 2, 4, 5, 1, 1, 10, 2, 1, 2, 0, -5 };
 int offset = 4;
 changeOrderOfArray(arr, offset);
@@ -85,7 +86,8 @@ foreach (int i in arr)
 {
     Console.Write(i + " ");
 }
-Console.WriteLine("\n-------------------");
+Console.WriteLine("\n-------------------------------");
+Console.WriteLine("Bài 2:");
 
 Console.WriteLine( getLongestArray(arr));
 

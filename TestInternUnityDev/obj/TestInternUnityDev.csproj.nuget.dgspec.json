@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TestInternUnityDev\\TestInternUnityDev\\TestInternUnityDev.csproj": {}
+    "D:\\GitHub\\testInternUnityRocketStudio\\TestInternUnityDev\\TestInternUnityDev.csproj": {}
   },
   "projects": {
-    "D:\\TestInternUnityDev\\TestInternUnityDev\\TestInternUnityDev.csproj": {
+    "D:\\GitHub\\testInternUnityRocketStudio\\TestInternUnityDev\\TestInternUnityDev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TestInternUnityDev\\TestInternUnityDev\\TestInternUnityDev.csproj",
+        "projectUniqueName": "D:\\GitHub\\testInternUnityRocketStudio\\TestInternUnityDev\\TestInternUnityDev.csproj",
         "projectName": "TestInternUnityDev",
-        "projectPath": "D:\\TestInternUnityDev\\TestInternUnityDev\\TestInternUnityDev.csproj",
+        "projectPath": "D:\\GitHub\\testInternUnityRocketStudio\\TestInternUnityDev\\TestInternUnityDev.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\TestInternUnityDev\\TestInternUnityDev\\obj\\",
+        "outputPath": "D:\\GitHub\\testInternUnityRocketStudio\\TestInternUnityDev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
